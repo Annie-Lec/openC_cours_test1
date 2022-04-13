@@ -3,6 +3,7 @@ package fr.annielec.testmaven;
 import org.apache.commons.lang3.StringUtils;
 
 /*Une fois la dépendance integrée penser à faire alt+F5*/
+/*Ou son équivalent en utilisant la barre de Menu : project / Update Maven Project*/
 public class PremierTest {
 
 	public static void main(String[] args) {
